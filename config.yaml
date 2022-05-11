@@ -32,8 +32,10 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL and branch of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/Allegheny-ComputerScience-302-S2022/dlholland-personal-portfolio
   gitBranch: main
+
+  background: "images/blue-background.jpg"
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
