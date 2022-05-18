@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://tourmaline-hotteok-61e4ca.netlify.app
 
 languageCode: en-us
 title: "Dylan Holland Personal Portfolio"
@@ -34,8 +34,6 @@ params:
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/Allegheny-ComputerScience-302-S2022/dlholland-personal-portfolio
   gitBranch: main
-
-  background: "images/blue-background.jpg"
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
