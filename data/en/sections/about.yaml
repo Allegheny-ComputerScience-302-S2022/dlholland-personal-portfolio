@@ -1,0 +1,42 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Student
+# your company information
+company:
+  name: Allegheny College
+  url: "https://allegheny.edu/requestinfo/?utm_source=carnegie&utm_medium=ppc&utm_campaign=ug&utm_term=google&gclid=Cj0KCQjwspKUBhCvARIsAB2IYusdiQffB6pldLm_rjVQ7zFsv53yYE4KBxtCJQeqIgZHZ2gaJ-XdQgcaAnuJEALw_wcB"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a graduate of the Arkansas Coding Academy and a student at Allegheny College.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/example"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 75
+  color: green
