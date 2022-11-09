@@ -25,7 +25,14 @@ summary: 'I am a graduate of the Arkansas Coding Academy and a student at Allegh
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/DlHolland"
+- name: Linkedin
+  icon: "fa-brands fa-linkedin"
+  url: "https://www.linkedin.com/in/dylan-holland-b25146250/"
+- name: Handshake
+  icon: "fa-brands fa-linkedin"
+  url: "https://app.joinhandshake.com/stu/users/33496592"
+
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
